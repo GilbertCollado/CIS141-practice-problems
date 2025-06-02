@@ -1,4 +1,4 @@
-# Create a text file called song_lyrics.txt and copy the lyrics of a song into it. Write a Python program that:
+# Write a Python program that:
 #- Reads the file
 #- Requests 5 inputs from the user: 5 words the user would like to count the frequency of
 #- Counts how many times each word appears
